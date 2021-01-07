@@ -1,5 +1,6 @@
 # Ideen für das Titelblatt
 - ## Das Kabital
-    ![erste Skizze](./titelblatt_daskabital_1_r1.png?raw=true "Skizze")
-    ![Referenzbild](./daskabital_referenz.jpg?raw=true "Referenzbild")
+    <img src="./titelblatt_daskabital_1_r1.png" alt="Skizze" height="350"/>
+    <img src="./daskabital_referenz.jpg" alt="Referenz" height="350"/>
+
   - Text mit kABItälchen
